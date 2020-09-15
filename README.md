@@ -18,6 +18,7 @@ The aim of the project is to predict the customer churn rate in a bank. This is 
 * img folder : Which contains the image data.
 * Churn_modelling : This is the dataset that we have used.
 * model.py : This contains all the code for the base model, hyper parameter tuning, Kfold-cross validation.
+* prediction_classifier.pkl : The saved model.
 
 ## Requirements
 * Tensorflow
